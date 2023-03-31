@@ -9,7 +9,7 @@ Book notes of How Networks Work
 * May 18th 1984 : Samuel Moose sent the first message “What hath God wrought”
 * William Cooke and Charles Wheatstone among other inventors 
 * 1851 : 50 Telegraph Companies
-* Edison also made a Telegraph machine 
+* Thomas Edison and Alexander Graham Bell started out as telegraph operators
 
 ### The tech 
 Two state system. Either closed circuit or open circuit. 
@@ -31,5 +31,10 @@ At the other end the receiver got a printed morse codes.
 
 ## Chapter 2 : The Telephone 
 
+* 1861 German dude Phillip Reis created a device that could transmit musical tones. He called it the telephone.
+* 1876 Alexander Graham Bell (AT&T) and Elisha Gray(Western Union) submitted for patent the same day!
+
+## The tech :
+Parts of a telephone : Mouthpiece and earpiece aka **transmitter** and **receiver**
 
 ## Chapter 3 : Printing Telegraphs
